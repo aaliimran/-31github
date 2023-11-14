@@ -49,7 +49,7 @@ const Design = () => {
                 },
               },
               bubble: {
-                distance: 120,
+                distance: 150,
                 size: 40,
                 duration: 8,
                 opacity: 8,
