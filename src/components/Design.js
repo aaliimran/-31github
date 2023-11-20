@@ -58,11 +58,11 @@ const Design = () => {
           },
           particles: {
             color: {
-              value: "#red",
+              value: "#ffffff",
             },
             links: {
-              color: "#ACF709",
-              distance: 150,
+              color: "#ffffff",
+              distance: 120,
               enable: true,
               opacity: 0.5,
               width: 1,
