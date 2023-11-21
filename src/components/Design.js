@@ -62,7 +62,7 @@ const Design = () => {
             },
             links: {
               color: "#ffffff",
-              distance: 120,
+              distance: 150,
               enable: true,
               opacity: 0.5,
               width: 1,
