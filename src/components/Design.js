@@ -43,7 +43,7 @@ const Design = () => {
             },
             modes: {
               grab: {
-                distance: 150,
+                distance: 200,
                 line_linked: {
                   opacity: 1,
                 },
