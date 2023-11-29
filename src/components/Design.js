@@ -43,7 +43,7 @@ const Design = () => {
             },
             modes: {
               grab: {
-                distance: 200,
+                distance: 150,
                 line_linked: {
                   opacity: 1,
                 },
@@ -58,7 +58,7 @@ const Design = () => {
           },
           particles: {
             color: {
-              value: "#ffffff",
+              value: "#red",
             },
             links: {
               color: "#ffffff",
