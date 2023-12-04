@@ -58,7 +58,7 @@ const Design = () => {
           },
           particles: {
             color: {
-              value: "#red",
+              value: "#ffffff",
             },
             links: {
               color: "#ffffff",
